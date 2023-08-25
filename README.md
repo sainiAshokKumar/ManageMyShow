@@ -1,4 +1,4 @@
-# Student_Auditorium_Management_System
+# ManageMyShow
 # Build a Student Auditorium Management System using C++ and OOP's concepts.
 Product Perspective : 
 The SAMS is designed to replace the manually driven school’s auditorium 
